@@ -1,2 +1,2 @@
 # A61-A_2023
-IA 
+Intelligence artificielle apliquée!!!
