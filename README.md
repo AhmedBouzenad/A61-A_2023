@@ -1,2 +1,2 @@
-# A61-A_2023
-Intelligence artificielle apliquée!!!
+# cours-A61
+Préparation de la solution d'IA pour la mise en production
